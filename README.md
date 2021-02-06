@@ -1,8 +1,8 @@
-#今天学习了MarkDown
+# 今天学习了MarkDown
 
 MarkDown是一种超文本标记语言，今天我第一次学习了它
 
-Hello MarkDown  
+```Hello MarkDown  
 
 接下来我们还会学习：
 
